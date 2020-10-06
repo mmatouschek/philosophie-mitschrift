@@ -1,7 +1,5 @@
-# Unsterblichkeit
--------
+#  6.10.2020 Unsterblichkeit
 ## Pflichtlektüre *Platon: Phaidon 64a - 81b*
-
 **Warum will ein Philosoph sterben?**
 
 Philosophie versucht so gut es geht, körperliches von geistigem zu trennen
@@ -23,3 +21,5 @@ Wissen wird von heute auf morgen gelernt und vergessen - so scheint es offensich
 Es gibt Sichtbares und Unsichtbares - Sichtbares ist veränderlich, Unsichtbares beständig (Bsp. ein Pferd vs 'das Gleiche')
 
 Körper ist dem Sichtbaren, Seele dem Unsichtbaren nah
+
+## Vorlesung
