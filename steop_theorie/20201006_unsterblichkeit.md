@@ -1,25 +1,25 @@
 # Unsterblichkeit
 -------
-## Pflichtlektüre *Platon: Phaidon 64a - 81b*
+## PflichtlektÃ¼re *Platon: Phaidon 64a - 81b*
 
 **Warum will ein Philosoph sterben?**
 
-Philosophie versucht so gut es geht, körperliches von geistigem zu trennen
+Philosophie versucht so gut es geht, kÃ¶rperliches von geistigem zu trennen
 
-Idealer Zustand wäre totale Trennung des Körpers, um Trieben zu entkommen
+Idealer Zustand wÃ¤re totale Trennung des KÃ¶rpers, um Trieben zu entkommen
 
-Tod ist das Ende für den körperlichen Aspekt des Lebens
+Tod ist das Ende fÃ¼r den kÃ¶rperlichen Aspekt des Lebens
 
 **Was ist nach dem Tod?**
 
-Welt beruht auf Gegensätzen - wachsen : schrumpfen, gerecht : ungerecht, leben : tod
+Welt beruht auf GegensÃ¤tzen - wachsen : schrumpfen, gerecht : ungerecht, leben : tod
 
-Das Wissen von 'Gleichheit' selbst ist nötig, um mit ersten Sinneswahrnemhungen zu vergleichen
+Das Wissen von 'Gleichheit' selbst ist nÃ¶tig, um mit ersten Sinneswahrnemhungen zu vergleichen
 
 Wissen ist entweder bei Geburt erworben oder davor bestehend und es muss sich daran 'erinnert' werden
 
 Wissen wird von heute auf morgen gelernt und vergessen - so scheint es offensichtlich, dass auch die Seele lernt und vergisst, anstatt das Wissen bei Geburt zu erlangen.
 
-Es gibt Sichtbares und Unsichtbares - Sichtbares ist veränderlich, Unsichtbares beständig (Bsp. ein Pferd vs 'das Gleiche')
+Es gibt Sichtbares und Unsichtbares - Sichtbares ist verÃ¤nderlich, Unsichtbares bestÃ¤ndig (Bsp. ein Pferd vs 'das Gleiche')
 
-Körper ist dem Sichtbaren, Seele dem Unsichtbaren nah
+KÃ¶rper ist dem Sichtbaren, Seele dem Unsichtbaren nah
