@@ -1,11 +1,17 @@
-# TUT Einführung
+# TUT EinfÃ¼hrung
 ------------
 Mindmaps anstatt linearer Zusammenfassung (MindMup)
 
-Fragen davor stellen und währenddessen beantworten:
+Fragen davor stellen und wÃ¤hrenddessen beantworten:
 
  * Was ist das Problem?
  * Was ist die Antwort?
  * Was waren die Argumente?
 
-Keine Scheu, Texte mehrmals zu lesen z.B. ein mal schnell drüber lesen und ein zweites Mal genauer fürs Verständnis
+Keine Scheu, Texte mehrmals zu lesen z.B. ein mal schnell drÃ¼ber lesen und ein zweites Mal genauer fÃ¼rs VerstÃ¤ndnis
+
+Leitfragen lesen
+
+Lesetechnik PQ4R
+
+Position des Autors zu verstehen versuchen
