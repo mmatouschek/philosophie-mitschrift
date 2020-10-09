@@ -62,3 +62,11 @@ is a myth and there is no such thing
 theories often summarized under the name 'semantics'
 
 in relation to 'syntax' as the rules under which language is constructed (grammar)
+
+and 'pragmatics' as the rules on the use of meaningful expression
+
+semantics, syntax and pragmatics cannot purely be separated
+
+> Theory of reference: In virtue of what does a linguistic expression
+designate one or more things in the world?
+
