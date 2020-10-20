@@ -53,4 +53,4 @@ Ein Argument, dessen Prämissen sich wiedersprechen, ist immer ein logisch gült
 
 Ist in einer Wahrheitstabelle eine Konklusion falsch, dann ist das Argument grundsätzlich nicht gültig
 
-![alt text][../bilder/widerspruch.PNG]
+![alt text](../bilder/widerspruch.PNG)

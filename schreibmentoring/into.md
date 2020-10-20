@@ -117,3 +117,24 @@ Enzyklopädie:
 * iep.utm.edu
 
 https://methodenkompetenz.blogs.uni-hamburg.de/pq4r-methode/
+
+
+## Clustering vs Mindmaps
+### Clustering
+
+* Assoziativ
+* Freewriting Stil
+* Kreativ
+* Vor/Während des Lesens
+
+Kurz und intuitiv Ideen aufschreiben, ohne viel nachzudenken (hilft bei informationslücken und offenen fragen)
+
+Fragen aufschreiben und Gedanken strukturieren, die im nachhinein beantwortet werden
+
+### MindMap
+
+* Visuelle Zusammenfassung
+* Ideen korrekt aufschreiben
+* Dient der Strukturierung des Textes
+* Nach dem Lesen
+* Verschiedene Formen und Pfeile für unterschiedliche Ideen/Verbindungen
