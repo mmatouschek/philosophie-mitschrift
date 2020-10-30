@@ -88,7 +88,7 @@ Mehrmals lesen - Drüberlesen und Anstreichen, danach mit Verständnis lesen (u.
 
 Unterstreichen/Anstreichen - Mehrere Farben nach Art der Information
 
-Hinweise, Aussagen, Nebenargumente, Hauptargumente, Definitionen
+Hinweise, Nebenargumente, Hauptargumente, Definitionen, Beispiele
 
 Am Rand mit Zeichen markieren:
 * Fragwürdige Stelle:
