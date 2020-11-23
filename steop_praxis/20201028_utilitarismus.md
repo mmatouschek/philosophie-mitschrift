@@ -9,6 +9,12 @@ Ethik beinhaltet Metaethik (=Wissenschaftstheoretische Fragen der Ethik, Analyse
 
 Gelebte Moral - Deskriptive Ethik
 
+Begründung durch eine **stark intuitive** grundlegende Annahme: dass Ziel menschlicher Handlung Glück ist.
+
+Versprechen: Utilitarismus bietet Kriterien, Handlungen wissenschaftlich zu bewerten
+
+Qualitative Unterscheidung von Glücksgütern meist intuitiv
+
 ## Kontext
 
 Utilitarismus als Gesellschaftsphilosophie - Philosophie, die eng verknüpft mit Gesellschaft und Gesetzen steht
@@ -37,6 +43,13 @@ Was genau Glück bringt ist zu klären, hat aber keine Auswirkungen auf das gene
 * Gemessen werden die Folgen aus ihrem Nutzen
 * Entscheidend ist der Nutzen nicht für beliebige Ziele, sondern der Nutzen für das, was an sich gut ist: die Erfüllung menschlicher Bedürfnisse (Glück)
 * Ausschlaggebend ist die Summe der Änderung des Glücks aller Betroffenen
+
+Jede Form des Utilitarismus teilt folgende Prinzipien:
+
+* Folgen-/Konsequenzenprinzip
+* Nutzenprinzip
+* Hedonistisches Prinzip
+* Universalistisches Prinzip
 
 **Prinzip der Nützlichkeit**: "Handle so, dass die Folgen deiner Handlung für das Wohlergehen aller Betroffenen optimal sind."
 
