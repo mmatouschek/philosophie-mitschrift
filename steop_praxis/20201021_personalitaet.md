@@ -54,7 +54,7 @@ Wenn der Wille und die Volitionen zweiter Stufe auseinander treten, oder wenn de
 
 Frankfurt unterscheidet nicht in der Qualität der Wünsche und bezieht sich nur auf bestehende Wünsche
 
-Taylor will eine Qalitativere Wertung von Wünschen
+Taylor will eine Qualitativere Wertung von Wünschen
 
 Schwache Wertung: bezogen auf Ergebnisse
 Starke Wertung: bezogen auf Beschaffenheit der Motivation
