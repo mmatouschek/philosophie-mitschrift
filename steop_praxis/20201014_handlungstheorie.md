@@ -40,6 +40,8 @@ Rationalisierung einer Handlung anhand des Beispiels 'Peter schließt die Tür'
 
 ## Davidson's Modell der Handlungserklärung
 
+QUASIINTENSIONAL???
+
 **Praktischer Syllogismus**
 
 *desire-belief*

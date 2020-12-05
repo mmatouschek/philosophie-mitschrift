@@ -27,8 +27,7 @@ Welche Gerechtigkeitsprinzipien? (Egalitarismus, Priorisierung der Ärmsten,...)
 * Politische Konzeption
 * Konzeption des Guten
 * Einverständnis über die Arten und Ansprüche von Gütern
-
-
+* **Nicht** Wünsche/Nutzen der Bürger maximieren
 
 **Methode**
 
@@ -40,14 +39,22 @@ Welche Gerechtigkeitsprinzipien? (Egalitarismus, Priorisierung der Ärmsten,...)
 
 **Grundgüter**
 
+Dinge, die Bürger als freie und gleiche Personen benötigen, deren Verfügbarkeit als angemessene Ansprüche gelten.
+
 * Grundrechte und Grundfreiheiten
 * Freizügigkeit und freie Berufswahl
 * Befugnisse und Zugangsrechte zu Ämtern und Positionen innerhalb pol. und ökon. Institutionen
 * Einkommen und Besitz
 * Soziale Grundlagen der Selbstachtung
+* Möglichkeiten
+
 
 
 
 > Jede Person hat den gleichen Anspruch auf ein vällig adäquates System gleicher Grundrechte und Freiheiten, das mit demselben System für aller vereinbar ist und innerhalb dieses Systems wird der faire Wert der gleichen politischen (und nur der politischen) Freiheiten garantiert.
 
 > Soziale und ökonomisch Ungleicheiten müsen zwei Bedingungen erfüllen: erstens müssen sie mit Ämtern und Positionen verbunden sein, die allen unter Bedingungen fairer Chancengleichheit offenstehen und zweitens müssen sie sich zum größtmöglichen vorteil der für die am wenigsten begünstigtsten Gesellschaftsmitglieder auswirken.
+
+Freiheit im Sinne von 'Wert der Freiheit'
+
+##
