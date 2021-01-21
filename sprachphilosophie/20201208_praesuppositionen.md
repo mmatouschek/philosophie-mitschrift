@@ -75,3 +75,51 @@ Ein Problem für die semantische Analyse von Präsuppositionen:
 
 **Aussetzung**
 * Tucker hat aufgehört zu rauchen, falls er je geraucht hat.
+
+## Behaupten & Common Ground
+
+* Jede Behauptung (assertion) geschieht gegenüber dem Common Ground, der Hörerinnen erlaubt, die Behauptung zu interpretieren.
+
+* Es hängt u.a. vom Common Ground ab, ob eine Behauptung linguistisch 'akzeptabel' (felicitous) ist.
+
+* Es hängt von den Propositionen im Common Ground ab, ob eine Behauptung mit einem Präsuppositionstrigger akzeptabel ist.
+
+
+*Die Gewitterfront erreicht uns in etwa einer Stunde.*
+* Akzeptabel wenn es Common Ground ist, dass es eine Gewitterfront gibt.
+* Inakzeptabel wenn es ohne diese bestehende Annahme geschieht
+* Erfolgreiche Behauptungen werden zum Common Ground hinzugefügt
+
+
+ ![Common Ground](../bilder/common_ground.png)
+
+
+* Der Common Ground beeinflusst, was angemessen behauptbar ist.
+* Was erfolgreich behauptet wird, beeinflusst den Common Ground für zukünftige Sprechakte.
+
+-> Beruht auf Darstellung von Grice's Konzept der Kooperativität von Konversation
+
+## Aussagen/Behaupten und Präsupponieren
+<br>
+
+**Präsupponierter Gehalt**
+* vorausgesetzte Information
+* im 'Hintergrund'
+
+
+**Ausgesagter Gehalt**
+* neue Information
+* im 'Vordergrund'
+* fokussiert
+
+
+## Problem für pragmatischen Ansatz
+
+* Sprecher können, unter gewissen Umständen, mit Präsuppositionen neue Informationen einführen.
+
+* Wie kann der pragmatische Ansatz die Angemessenheit solcher Behauptungen selbst in Kontexten, in denen die Präsuppositionen vorher noch nicht im Common Ground waren, erklären?
+
+**Akkommodation**
+> HörerInnen sind aufgefordert, neue informationen, die mithilfe von Präsuppositionen eingeführt werden, als vorausgesetzt zu behandeln und in den Common Ground mit auf zu nehmen, zu akkommodieren.
+
+Für Lewis ist Akkommodation eine der Konversationsregeln.

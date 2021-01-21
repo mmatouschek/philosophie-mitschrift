@@ -334,17 +334,53 @@ Necessity (NN) S. 27
 * Überzeugt Sie die Analyse, dass Descartes‘ Äußerung „Ich existiere“ nur kontingent wahr ist? Trifft diese Analyse den Kern von Descartes‘ Argumentation des „Ich denke, also bin ich“?
 
 * Wie definiert Grice „das Gesagte“ (what ist said)? (Seite 25)
+  * Das, was ausgesagt wird
 
 * Was versteht Grice unter „konventionaler Implikatur“?
+  * Eine Proposition, die mit dem gesagten und dem Äußerungskontext 'gemeint'/'kommuniziert' wird
 
 * Worin besteht laut Grice das grundlegende Kooperationsprinzip, das allen (zielgerichteten) Konversationen zugrunde liegt?
+  * Der Gesprächsbeitrag muss dem akzeptierten Zweck/der Richtung dienen.
 
 * Welche vier Maximen leitet Grice aus dem grundlegenden Kooperationsprinzip ab und was bedeuten diese im Detail?
+  * Folie 12
+  * Quantity, Quality, Relation, Manner
 
 * Welche vier Möglichkeiten der Missachtung einer Konversationsmaxime bestehen laut Grice und was bedeuten diese im Detail?
+  * Verletzen
+  * Aussteigen
+  * Kollision
+  * Verstoßen
 
 * Bei welcher Form der Missachtung einer Konversationsmaxime kommt es laut Grice besonders häufig zu einer konversationalen Implikatur?
+  * Verstoß (flout)
 
 * Wie funktionieren konversationale Implikaturen laut Grice? Wie kommt es dazu, dass Hörende Implikaturen richtig erkennen?
+  * Voraussetzungen für KI:
+    1. Vom Hörer ist anzunehmen, dass der Sprecher die Konversationsmaximen beachtet
+    2. Dem Hörer ist bewusst, dass q, ist nötig, um den Umstand, dass er sagt, also sagt er, dass p, um mit der in 1 erwähnten Annahme in Übereinstimmung zu bringen
+    3. Der Sprecher glaubt, dass der Hörer in der lage ist, die Annahme intuitiv zu erfassen
+
 
 * Worin besteht die Besonderheit generalisierter konversationaler Implikaturen im Unterschied zu partikularisierten konversationalen Implikaturen?
+  * Bei GKI bedarf es keiner besonderen Umstände im Kontext
+
+* Worin besteht laut Stalnaker der Unterschied zwischen Behauptungen und Präsuppositionen?
+
+* Wie werden Präsuppositionen laut Stalnaker als semantische Beziehungen zwischen Sätzen oder Propositionen analysiert?
+
+* Wie werden Präsuppositionen laut Stalnaker pragmatisch analysiert?
+
+* Welche Analyse von Präsuppositionen hält Stalnaker für entscheidender, die semantische oder die pragmatische?
+
+* Welche Rolle spielen Präsuppositionen laut Stalnaker in Konversationen, in denen es in erster Linie um Informationsaustausch geht?
+
+* Welche Rolle können Präsuppositionen laut Stalnaker in Konversationen spielen, in denen es nicht nur um Informationsaustausch geht?
+
+* Inwiefern beschränkungen Präsuppositionen laut Stalnaker aus pragmatischer Perspektive die Konversation?
+
+* Was möchte Lewis mit dem Beispiel von Freds Kindern in Bezug auf Präsuppositionen verdeutlichen?
+
+* Welche Regeln stellt Lewis in Bezug auf die Entstehung von Präsuppositionen auf?
+
+* Welche Parallelen sieht Lewis zwischen Regeln für Konversationen und Regeln für Baseballspiele? (Seite 345-346)
