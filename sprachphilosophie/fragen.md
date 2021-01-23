@@ -366,21 +366,107 @@ Necessity (NN) S. 27
   * Bei GKI bedarf es keiner besonderen Umstände im Kontext
 
 * Worin besteht laut Stalnaker der Unterschied zwischen Behauptungen und Präsuppositionen?
+  * Eine Behauptung kann nicht angemessen behauptet werden, ohne dass SprecherIn und HörerIn die unterliegende Proposition annehmen. Die Behauptung setzt die Präsupposition voraus, behauptet sie aber nicht.
 
 * Wie werden Präsuppositionen laut Stalnaker als semantische Beziehungen zwischen Sätzen oder Propositionen analysiert?
+  * Sie können durch Negation analysiert werden. Ist die Präsupposition P falsch, dann kann die Behauptung B keinen Wahrheitswert haben. Umgekehrt, solange P wahr ist, ist B entweder wahr oder falsch.
 
 * Wie werden Präsuppositionen laut Stalnaker pragmatisch analysiert?
+  * Stalnaker stellt die Analyse als eine Menge an Informationen, dem Common Ground, dar. Alles, was für eine Konversation angenommen wird/werden muss, ist Teil des Common Ground. Wird neues Behauptet und von den Gesprächsteilnehmern akzeptiert, so wird es Teil des Common Ground. Diese Informationen können während der Konversation als Präsupposition dienen.
 
 * Welche Analyse von Präsuppositionen hält Stalnaker für entscheidender, die semantische oder die pragmatische?
+  * Pragmatische: Präsupposition ist sehr kontextabhängig und kann nicht zur Gänze mithilfe der Semantik beschrieben werden.
 
 * Welche Rolle spielen Präsuppositionen laut Stalnaker in Konversationen, in denen es in erster Linie um Informationsaustausch geht?
 
 * Welche Rolle können Präsuppositionen laut Stalnaker in Konversationen spielen, in denen es nicht nur um Informationsaustausch geht?
+  * Der Common Ground in solchen Konversationen wird dadurch oft mit anderem Umfang behandelt, als er wirklich ist. Beispielsweise kann ein Hörer etwas, das er schon weiß, wie neue Information behandeln, obwohl sie schon Teil des Common Ground ist, um die Konversation aufrecht zu erhalten.
 
-* Inwiefern beschränkungen Präsuppositionen laut Stalnaker aus pragmatischer Perspektive die Konversation?
+* Inwiefern beschränken Präsuppositionen laut Stalnaker aus pragmatischer Perspektive die Konversation?
 
 * Was möchte Lewis mit dem Beispiel von Freds Kindern in Bezug auf Präsuppositionen verdeutlichen?
+  * Präsuppositionen liefern Informationen zum Besprochenen - Wenn nun die Information der Präsupposition wiederholt wird, wird der Konversation nichts hinzugefügt.
+
 
 * Welche Regeln stellt Lewis in Bezug auf die Entstehung von Präsuppositionen auf?
+  * If at time t something is said that requires presupposition P to be acceptable, and if P is not presupposed just before t, then presupposition P comes into existence at t.
+
 
 * Welche Parallelen sieht Lewis zwischen Regeln für Konversationen und Regeln für Baseballspiele? (Seite 345-346)
+  * Komponenten des 'Score' sind abstrakte Einheiten - Präsuppositionen, Grenzen,..
+  * Annehmbarkeit eines Satzes kommt auf den Spielstand an. Aussagen müssen auf Komponenten geprüft werden, deren Wahrheitswert, etc..
+  * Score s at time t in conversation c - at time t' score is s' determined by s and c
+  * Konversierende können die Konversation steuern, kooperieren, widersprechen,..
+  * Diese Regeln sind ausreichend, können aber auch genauer definiert werden
+
+
+* Aus welchen drei Aspekten bestehen lokutionäre Sprechakte laut Austin?
+  * Phonetischer Akt
+  * Phatischer Akt
+  * Rhetischer Akt
+
+
+* Wie definiert Austin illokutionäre Sprechakte?
+  * Etwas tun, indem man etwas sagt
+
+
+* Wodurch sind perlokutionäre Sprechakte laut Austin gekennzeichnet?
+  * Etwas tun, dadurch dass man etwas sagt
+
+
+* Inwiefern können Sprechakte laut Austin misslingen? (Seite 105)
+  * Lokutionäres, Illokutionäres, Perlokutionäres Misslingen
+
+
+* Worin besteht laut Langtons Zusammenfassung von Austins Position der zentrale Unterschied zwischen illokutionären und perlokutionären Sprechakten?
+
+
+* Inwiefern charakterisiert Langton Sprechakte der Apartheid als Subordination?
+  * Klassifiziert Untergruppe als minderwertig
+  * Legitimiert diskriminierendes Verhalten gegen sie
+  * Beraubt ungerechterweise wichtiger Möglichkeiten
+
+
+* Welches Merkmal von Sprechakten des Hierarchisierens sieht Langton (basierend auf Austins Theorie) als zentral für die illokutionäre Kraft dieser subordinierenden Sprechakte?
+  * Autorität
+
+
+* Inwiefern kann ein Sprechakt laut Langton im Sinn einer illokutionären Behinderung zum Schweigen gebracht werden (silenced speech act)?
+  * Sprechakte, die auf lokutionärer, illokutionärer oder perlokutionärer Ebene verhindert worden sind
+
+
+* Inwiefern kann ein Sprechakt laut Langton einen anderen Sprechakt verhindern (silencing speech acts)?
+  * Sprechakte, die zum Verstummen bringen, besonders welche, deren Effekt die illokutionäre Behinderung der Sprechakte anderer ist
+
+
+* Welche drei Themen möchten Langton, Haslanger und Anderson in ihrem Text untersuchen, die alle mit der Frage zu tun haben, wie Sprache und Hautfarbe/"Race" zusammenhängen? (Seite 754)
+
+
+* Worin besteht der erste Ansatz (semantisch), den Anderson et al. zur Erklärung von Slurs vorstellen? Welche beiden Aspekte von Slurs kann dieser Ansatz nicht erklären?
+
+
+* Worin besteht der zweite Ansatz (präsuppositional), den Anderson et al. zur Erklärung von Slurs vorstellen? Welchen Aspekt von Slurs kann auch dieser Ansatz nicht erklären?
+
+
+* Worin besteht der dritte Ansatz (konventionale Implikatur), den Anderson et al. zur Erklärung von Slurs vorstellen? Kann dieser Ansatz das Problem der indirekten Rede überwinden?
+
+
+* Worin besteht der vierte Ansatz (Slurs als verbotene Wörter), den Anderson et al. zur Erklärung von Slurs vorstellen? Weshalb argumentieren die Autor*innen für diesen Ansatz?
+
+
+* Inwiefern haben rassistische Sprechakte laut Anderson et al. eine eigene illokutionäre Kraft (Bezug zu Austin & Langton)? (Seite 758)
+
+
+* Was besagt McGowans Theorie, die von Anderson et al. zitiert wird, über den Einfluss rassistischer Sprechakte auf den Punktestand einer Konversation bzw. auf die geteilten Hintergrundannahmen (Bezug zu Lewis & Stalnaker)?
+
+
+* Inwiefern können rassistische Sprechakte den Autor*innen zufolge auch zu einer bestimmten Art des Silencing führen (Bezug zu Langton)? (Seite 760)
+
+
+* Welche drei Arten der Generalisierung unterscheidet Sarah-Jane Leslie, die von Anderson et al. herangezogen wird, um rassistische Verallgemeinerungen sprachphilosophisch untersuchen zu können? (Seite 761-762)
+
+
+* Welche der drei Arten der Generalisierung wird bei rassistischen Verallgemeinerungen laut Anderson et al. implikiert? Inwiefern erklärt die Annahme, dass diese Art der Generalisierung vorliegt, weshalb Vertreter*innen rassistischer Verallgemeinerungen sich nicht von Gegenbeispielen überzeugen lassen? (Seite 763)
+
+
+* Welche Alternative bleibt den Autor*innen zufolge, wenn man gegen rassistische Verallgemeinerungen argumentieren möchte, Gegenbeispiele aber nicht überzeugend wirken? (Seite 763)
