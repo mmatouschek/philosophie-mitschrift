@@ -440,13 +440,15 @@ Necessity (NN) S. 27
 
 
 * Welche drei Themen möchten Langton, Haslanger und Anderson in ihrem Text untersuchen, die alle mit der Frage zu tun haben, wie Sprache und Hautfarbe/"Race" zusammenhängen? (Seite 754)
+  * Slurs, Speech Acts, Racial Generics
 
 
 * Worin besteht der erste Ansatz (semantisch), den Anderson et al. zur Erklärung von Slurs vorstellen? Welche beiden Aspekte von Slurs kann dieser Ansatz nicht erklären?
+  * Die Aussagen haben unterschiedlichen Gehalt; Wird ein Slur negiert, ist es unklar, was ausgesagt wird, er ist aber immernoch offensive (obwohl nach semantischer Analyse das nicht der fall sein sollte)
 
 
 * Worin besteht der zweite Ansatz (präsuppositional), den Anderson et al. zur Erklärung von Slurs vorstellen? Welchen Aspekt von Slurs kann auch dieser Ansatz nicht erklären?
-
+  * Der Slur wird präsupponiert und bleibt somit bestehen, auch wenn die Aussage negiert wird.
 
 * Worin besteht der dritte Ansatz (konventionale Implikatur), den Anderson et al. zur Erklärung von Slurs vorstellen? Kann dieser Ansatz das Problem der indirekten Rede überwinden?
 
