@@ -450,6 +450,7 @@ Necessity (NN) S. 27
 * Worin besteht der zweite Ansatz (präsuppositional), den Anderson et al. zur Erklärung von Slurs vorstellen? Welchen Aspekt von Slurs kann auch dieser Ansatz nicht erklären?
   * Der Slur wird präsupponiert und bleibt somit bestehen, auch wenn die Aussage negiert wird.
 
+
 * Worin besteht der dritte Ansatz (konventionale Implikatur), den Anderson et al. zur Erklärung von Slurs vorstellen? Kann dieser Ansatz das Problem der indirekten Rede überwinden?
 
 
