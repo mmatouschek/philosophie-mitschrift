@@ -6,12 +6,15 @@ Diese Mitschrift dient zur Unterstützung der Vorlesungen und Übungen des Studi
 
 ## Navigation
 
-* [VO STEOP Einführung in die theoretische Philosophie](steop_theorie)
 
-* [VO STEOP Einführung in die praktische Philosophie](steop_praxis)
+* [Erstes Semester](semester_1)
 
-* [VO Einführung in die Sprachphilosophie](sprachphilosophie)
+* [VO STEOP Einführung in die theoretische Philosophie](semester_1/steop_theorie)
 
-* [VO Einführung in die Philosophie des Mittelalters](geschichte2)
+* [VO STEOP Einführung in die praktische Philosophie](semester_1/steop_praxis)
 
-* [TUT Tutorium zu jeglichen Vorlesungen](tutorium)
+* [VO Einführung in die Sprachphilosophie](semester_1/sprachphilosophie)
+
+* [VO Einführung in die Philosophie des Mittelalters](semester_1/geschichte2)
+
+* [TUT Tutorium zu jeglichen Vorlesungen](semester_1/tutorium)
