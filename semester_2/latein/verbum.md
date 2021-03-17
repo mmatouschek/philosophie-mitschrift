@@ -194,3 +194,76 @@ Infinitiv auf -ere >> dicere
 * finit
 * iubebas
 * damus
+
+## Präsensstamm (passiv)
+
+
+Personalendungen des Präsensstammes
+
+* Ich - or oder r
+* Du - ris
+* Er/Sie/Es - tur
+* Wir - mur
+* Ihr - mini
+* Sie - ntur
+
+
+Passive Infinitivendungen
+
+* -ari
+* -eri
+* -i
+* -iri
+
+<table>
+  <tr>
+    <th>Präsens Passiv</th>
+    <th>Imperfekt Passiv</th>
+  </tr>
+  <tr>
+    <td>ten-e-or</td>
+    <td>ten-e-ba-r</td>
+  </tr>
+  <tr>
+    <td>ten-e-ris</td>
+    <td>ten-e-ba-ris</td>
+  </tr>
+  <tr>
+    <td>ten-e-tur</td>
+    <td>ten-e-ba-tur</td>
+  </tr>
+  <tr>
+    <td>ten-e-mur</td>
+    <td>ten-e-ba-mur</td>
+  </tr>
+  <tr>
+    <td>ten-e-mini</td>
+    <td>ten-e-ba-mini</td>
+  </tr>
+  <tr>
+    <td>ten-e-ntur</td>
+    <td>ten-e-ba-ntur</td>
+  </tr>
+</table>
+
+## Perfektstamm
+
+**Perfektstamm + zeitspezifische Personalendung**
+
+Personalendungen der Zeit Perfekt
+
+* Ich - i
+* Du - isti
+* Er/Sie/Es - it
+* Wir - imus
+* Ihr - istis
+* Sie - erunt
+
+Personalendungen der Zeit Plusquamperfekt
+
+* Ich - eram
+* Du - eras
+* Er/Sie/Es - erat
+* Wir - eramus
+* Ihr - eratis
+* Sie - erant
