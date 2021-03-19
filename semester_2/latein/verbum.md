@@ -267,3 +267,5 @@ Personalendungen der Zeit Plusquamperfekt
 * Wir - eramus
 * Ihr - eratis
 * Sie - erant
+
+Wortstamm im Perfekt unterscheidet sich immer vom Präsensstamm! Manchmal folgen Verben einem Muster, dazu gibt es aber auch immer ausnahmen.
