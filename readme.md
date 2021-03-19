@@ -8,20 +8,14 @@ Diese Mitschrift dient zur Unterstützung der Vorlesungen und Übungen des Studi
 
 
 * [Erstes Semester](semester_1)
-
   * [VO STEOP Einführung in die theoretische Philosophie](semester_1/steop_theorie)
-
   * [VO STEOP Einführung in die praktische Philosophie](semester_1/steop_praxis)
-
   * [VO Einführung in die Sprachphilosophie](semester_1/sprachphilosophie)
-
   * [VO Einführung in die Philosophie des Mittelalters](semester_1/geschichte2)
-
   * [TUT Tutorium zu jeglichen Vorlesungen](semester_1/tutorium)
 
 
 * [Zweites Semester](semester_2)
-
   * [VO Geschichte der Philosophie in der Antike](semester_2/geschichte_1)
   * [VO Geschichte der Philosophie der Neuzeit](semester_2/geschichte_3)
   * [VO Grichische Terminologie](semester_2/griechische_terminologie)
