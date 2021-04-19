@@ -8,6 +8,8 @@
 * What exactly is the experiential self?
 * What is the anonymity objection?
 * What is the transparency thesis?
+* What is higher order representationalism?
+* What is the transitivity principle?
 * Consciousness vs Self-Consciousness?
 * Are subjectivity and the Self contrasting eachother? Why?
 * What does normativity in the context of the Self mean?
@@ -87,7 +89,27 @@
 
 * Self consciousness for Zahavi only means that consciousness has access to or is acquainted with itself
 
+* Metzinger: Mineness is not a necessary component of experience (schizophrenic thought-insertion, in which patients have no sense of agency or ownership)
+  * Zahavi: Even if the patient reports a thought as feeling intrusive, it is still theirs to experience it, within their own stream of consciousness (of which they do claim ownership)
+
 ### Subjectivity or Selfhood
+
+**The illusory self**
+
+* Albahari: The self should be understood as a unified, happiness-seeking, unbrokenly persisting, ontologically distinct conscious subject who is the owner of experiences
+* Albahari ascribes these features to consciousness, but not to a self
+* There is a close link between having a sense of personal ownership and having a sense of self - though the sense of self is real, this doesnt entail that the sense is real
+* Albahari: An illusion involves a conflict between appearance and reality: x is illusory if x does not have any appearance-independent reality
+
+* Zahavi: Her only issue is that the self does not possess the property of ontological independence
+
+* Zahavi argues, that Albaharis theory is more robust than the theory defended by many self-realists, though she would argue that Zahavis theory is so deflationary, that his position ends up being similar to a no-self theory. And Zahavi (sort of) agrees
+
+**Normativity and narrativity**
+
+* Korsgaard: Both humans and non-human possess some sort of self-consciousness, but human beings are are capabale of recognising desires or fears, as well as our inclination to act upon those desires or fears - we can be conscious of the reasons behind our actions. This leads to the liberation of instincts, they still operate within us, but dont determine our actions entirely
+
+
 ### Self and Diachronic Unity
 ### Pure and Poor
 ### A Multidimensional Account
