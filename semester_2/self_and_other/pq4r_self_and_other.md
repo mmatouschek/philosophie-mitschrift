@@ -109,6 +109,15 @@
 
 * Korsgaard: Both humans and non-human possess some sort of self-consciousness, but human beings are are capabale of recognising desires or fears, as well as our inclination to act upon those desires or fears - we can be conscious of the reasons behind our actions. This leads to the liberation of instincts, they still operate within us, but dont determine our actions entirely
 
+* Korsgaard, as well as Frankfurt argue that we undergo a certain self-constitution, in which we have authority on what (thoughts, experiences,ect.) we identify with. This amounts to a specific form of ownership or authorship, that is constitutive of the self
+  * Zahavi: this implies that self is not a given, but an achievement
+
+* Selves (fundamentally) are agents, that our actions gain intelligibility by having a place in a narrative sequence. We answer questions such as 'Who is this?' by giving a response similar to a narration, that suits their life and character
+
+* The narrative account emphasizes both the temporal and the social dimension of selfhood. narration starts in early childhood and continues for the rest of our lives, there is no such thing as a pre-existing self
+
+* According to the narrative account of selfhood, it is precisely narratives that allow for a synthesis of the diverse and heterogeneius aspects of live, they allow us to link temporally dispersed episodes in such a way as to make sense of them. they allow for a coordination of past, present, and future, and establish a web of semantic relations that unite events across time into a meaningful whole (Atkins 2004)
+
 
 ### Self and Diachronic Unity
 ### Pure and Poor
