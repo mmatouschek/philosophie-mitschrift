@@ -17,6 +17,7 @@
 * What are the problems for the narrative self? Does it explain/include for-me-ness?
 * What are the problems for the minimal self?
 * Would a materialist be an self-realist, self-antirealist or either?
+* What does Strawsons model of a thin self try to solve? Diachronicity? How?
 -----
 ## The Experiential Self
 
@@ -114,18 +115,64 @@
 
 * Selves (fundamentally) are agents, that our actions gain intelligibility by having a place in a narrative sequence. We answer questions such as 'Who is this?' by giving a response similar to a narration, that suits their life and character
 
-* The narrative account emphasizes both the temporal and the social dimension of selfhood. narration starts in early childhood and continues for the rest of our lives, there is no such thing as a pre-existing self
+* The narrative account emphasizes both the temporal and the social dimension of selfhood. narration starts in early childhood and continues for the rest of our lives, there is no such thing as a pre-existing self and the self changes continuously.
 
 * According to the narrative account of selfhood, it is precisely narratives that allow for a synthesis of the diverse and heterogeneius aspects of live, they allow us to link temporally dispersed episodes in such a way as to make sense of them. they allow for a coordination of past, present, and future, and establish a web of semantic relations that unite events across time into a meaningful whole (Atkins 2004)
 
+* Narratives dont need to be expressed explicitly, rather for my self-interpretatin to count as narrative is simply for me to understand the different life episodes in terms of their place in an unfolding story (schechtmann 1996)
 
 ### Self and Diachronic Unity
+
+* Does the experiential self have any diachronic persistence or is it minimal in the sense of it being temporally non-extended?
+* Dreayfuß: There is no diachronically unified self - there is no temporally extended and persisting self
+* Zahavi: We experience change and persistence - we can hear an enduring tone. To perceive an object as enduring over time, consciousness must itself be experientially unified. Husserl explains this with the 'width of presence'
+
+* Husserl: Unit of temporality is a 'duration-block', a temporal field that comprises present, past and future. Primal impression (present) never appears in isolation and is an abstract component that by itself cannot provide us with a perception fo a temporal object. Retention (past) provides us with a consciousness of the just-elapsed slice of the object, thereby furnishing the primal imporession with a past directed temporal context, and by a protention (future), which in a more or less indefinite way intends the slice of the object about to occur, thereby providing a future-oriented temporal context for the primal imporession.
+
+* The full structure of all lived experience, according to husserl, is protention-primal impression-retention
+
+* Retention of a melody does not let us hear the notes a second time, but it contains the past experience of this melode. Each actual phase of consciousness retains not only the past-tones, but also te previous phase of consciousness
+
+* Dainton: Persistence of the self is guaranteed by experiential continuity
+* Brigde Problem: If experiential continuity is interrupted (by sleep), what links those 2 streams of consciousness together?
+* Daintons Answer: he rejects what he calls the Essentially Conscious Self thesis, and accepts a Pontentially Conscious Self thesis (the view that a self can lose consciousness and still continue to exist provided it retains the capability to be conscious)
+
+* Transience view of the self: During the ordinary lifetime of a human being, one and the same organism might be said to be inhabited by a vast multitude of ontologically distinct shirt-lived selves.
+
+* Strawsons model of the self is similar to zahavis 'experiential self', whith one substantial difference concerning the question fo persistency and transience. The stream of consciousness is a series of isolated short-term experiential episodes, each episode has its own ontologically distinct subject. So every time there is a new experience, there is also a new subject aka. thin self. 'I am continually completely new'
+
+* Zahavis model: two streams of consciousness (seperated by sleep) are connected if they posess the same 'for-me-ness'. If they do, they can jointly constitute an instance of temporally dispersed self-consciousness.
+  * How come the experiential self can pop in and out of existence?
+
+* Self consciousness is neither necessary for personal identity nor sufficient (aaording to locke)
+
+* Klawonn: Subjective or first-personal givenness of an experience is the necessary and sufficient condition for the selfhood of that experience and thet the self can be defined as - and the unity of consciousness explained be means of- the invariable first-personal givenness of a system of changing experiences.
+
+
 ### Pure and Poor
+
+* Husserl: Self-consciousness and consciousness of others are inseperable - Experiencing in general, living as an ego (thinking valuing acting) - I am necessarily an I that has its "thou", "its", "we". Husserl ascribes a relative mode of being to the personal I. The I exists in constrast to the you
+
+
+
+
 ### A Multidimensional Account
 ------
 ## Empathic Understanding
 ### Subjectivity and Intersubjectivity
+
+* How do we, in general, relate to and come to understand others?
+* THhere is no conflict between defending the notion of an experiential self and arguing that we can be experientially acquainted with the subjectivity of others.
+* The notion of an experiential self, rather than preventing a satisfactory solution to the problem of other minds, is a precondition for a resonable account of Intersubjectivity.
+
+* Sartre suggests, that the truly distinctive contribution of a phenomenology of Intersubjectivity, far from being located in its investigation of how we come to know others, is to be found in its exploration of the ontological (and affective and normative) intertwinement of self and other.
+
+* How and to what extent can we understand others?
+
+
 ### Empathy and Projection
+
+
 ### Phenomenology of Empathy
 ### Empathy and Social Cognition
 ### Subjectivity and Otherness
